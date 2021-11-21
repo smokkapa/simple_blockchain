@@ -1,0 +1,6 @@
+# python dependencies
+bin
+include
+lib
+
+pyvenv.cfg
